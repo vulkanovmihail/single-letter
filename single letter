@@ -1,0 +1,4 @@
+if len(guess) != 1 {
+   fmt.Println("Please enter a single letter.")
+   continue
+  }
